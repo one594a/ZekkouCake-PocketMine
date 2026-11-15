@@ -1,0 +1,22 @@
+# 本地运行环境（PHP 二进制与扩展，体积大且需自行准备）
+/bin/
+/plugins/
+
+# 运行时数据
+/worlds/
+/players/
+/server.log
+/ops.txt
+/white-list.txt
+/banned-ips.txt
+/banned-players.txt
+
+# 调试与崩溃产物
+CrashDump_*.log
+craft_trace.log
+.craft_trace
+
+# 编辑器/系统杂项
+.DS_Store
+Thumbs.db
+*.swp
